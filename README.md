@@ -10,9 +10,10 @@ http://docs.splunk.com/Documentation/Splunk/6.6.3/RESTUM/RESTusing
 
 
 Edit: appsettings.json
-set you localhost where your Splunk Server is running on port 8089.
+Set your localhost where your Splunk Server. The API runs on port 8089.
 Set your username and password to that splunk instance
 
 All of the relevant code is in the HomeController.cs file
 
-The program retrieves example log data from the Splunk server. 
+The program retrieves example log data from the Splunk server.  This application utilizes a hosted Splunk instance, not Splunk Cloud.
+
