@@ -1,6 +1,6 @@
 # MVC_Splunk_REST_API
-Splunk REST API MVC App
-Visual Studio 2017 Simple Splunk REST API with MVC App
+
+Splunk REST API using C# in simple MVC application
 
 This project file is a simple MVC application to show you how easy it is to connect to a Splunk instance with the REST API.
 Be sure to set "allowremotelogin=always" in your Splunk "local" configuration file.
